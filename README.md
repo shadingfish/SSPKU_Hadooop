@@ -1,6 +1,7 @@
 # SSPKU_Hadooop
 hadoop course project
-Click to  check my introduction video (in Chinese): https://disk.pku.edu.cn:443/link/757E7A7150A201873A9488D4EF9B87E1
+
+Click to check my introduction video (in Chinese): https://disk.pku.edu.cn:443/link/757E7A7150A201873A9488D4EF9B87E1
 
 ![image](https://github.com/shadingfish/SSPKU_Hadooop/assets/112749262/08914028-6fc2-4def-9efb-7d10aaf944b8)
 ![image](https://github.com/shadingfish/SSPKU_Hadooop/assets/112749262/47b7e557-ff7b-474d-bc06-0ba02d8afc64)
