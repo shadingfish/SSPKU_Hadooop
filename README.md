@@ -10,5 +10,4 @@ hadoop course project
 ![image](https://github.com/shadingfish/SSPKU_Hadooop/assets/112749262/ea11c350-3cec-4def-8295-abba00a301f8)
 
 
-Click to  check my introduction video:
-
+Click to  check my introduction video (in Chinese): https://disk.pku.edu.cn:443/link/757E7A7150A201873A9488D4EF9B87E1
